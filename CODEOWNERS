@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Wishwin-create
+/src/backend/database.py      @Wishwin-create
+/src/backend/routers/auth.py  @Wishwin-create
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Wishwin-create
